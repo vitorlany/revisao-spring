@@ -1,8 +1,9 @@
 spring:
   datasource:
-    url: jdbc:h2:mem:mydb?createDatabaseIfNotExist=true
-    username: sa
-    password: password
+    url: jdbc:h2:mem:mydb
+#    ?createDatabaseIfNotExist=true
+    username: root
+    password:
     driverClassName: org.h2.Driver
   jpa:
     spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
