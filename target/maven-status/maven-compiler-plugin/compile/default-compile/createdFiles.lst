@@ -1,0 +1,11 @@
+com\anime\api\mapper\anime\AnimePostRequest$AnimePostRequestBuilder.class
+com\anime\api\domain\Anime$AnimeBuilder.class
+com\anime\api\mapper\AnimeMapper.class
+com\anime\api\repository\AnimeRepository.class
+com\anime\api\domain\Anime.class
+com\anime\api\service\AnimesService.class
+com\anime\api\ApiApplication.class
+com\anime\api\mapper\anime\AnimePostRequest.class
+com\anime\api\controller\AnimeController.class
+com\anime\api\security\SecurityConfiguration.class
+com\anime\api\mapper\AnimeMapperImpl.class

@@ -4,9 +4,9 @@ import com.anime.api.domain.Anime;
 import com.anime.api.mapper.AnimeMapper;
 import com.anime.api.mapper.anime.AnimePostRequest;
 import com.anime.api.repository.AnimeRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
 import java.util.List;
 
 @Service
